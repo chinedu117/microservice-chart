@@ -27,6 +27,10 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 
+secret:
+  enabled: true
+  type: Opaque
+  
 serviceAccount:
   # Specifies whether a service account should be created
   create: true
