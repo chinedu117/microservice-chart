@@ -3,7 +3,18 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-04T18:16:59.5191377+01:00"
+    created: "2023-02-02T16:04:18.948797677+01:00"
+    description: A helm chart for adding a microservice. This version allows deployment
+      annotations.
+    digest: c66ea399244ee3b09f36b37a62f7229111f023e7e2091f788292c54557f17799
+    name: microservice
+    type: application
+    urls:
+    - https://chinedu117.github.io/microservice-chart/microservice-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-02T16:04:18.946988928+01:00"
     description: A Helm chart for Kubernetes
     digest: 025c5b4aa74d66247dbdf47d56889d4b3902950b798ad6596062aba5577bd6a6
     name: microservice
@@ -13,7 +24,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-04T18:16:59.517791523+01:00"
+    created: "2023-02-02T16:04:18.94394894+01:00"
     description: A Helm chart for Kubernetes
     digest: a237ccc496514d4de9f602254ff773eb87b03b55277fdc0f093a9bfdebe07860
     name: microservice
@@ -21,4 +32,4 @@ entries:
     urls:
     - https://chinedu117.github.io/microservice-chart/microservice-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-04T18:16:59.516268544+01:00"
+generated: "2023-02-02T16:04:18.942081026+01:00"

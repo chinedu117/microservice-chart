@@ -27,6 +27,9 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 
+
+deploymentAnnotations: {}
+
 secret:
   enabled: true
   type: Opaque
